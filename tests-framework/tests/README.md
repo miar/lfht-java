@@ -1,5 +1,5 @@
 
-Please note that project has changed to the following location:
+The project changed to the following location:
 
 https://github.com/miar/ffp
 
